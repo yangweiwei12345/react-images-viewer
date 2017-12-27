@@ -1,0 +1,24 @@
+{
+  "name": "react-images-viewer",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangweiwei12345/react-images-viewer.git"
+  },
+  "keywords": [
+    "react",
+    "images",
+    "webpack"
+  ],
+  "author": "yangweiwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangweiwei12345/react-images-viewer/issues"
+  },
+  "homepage": "https://github.com/yangweiwei12345/react-images-viewer#readme"
+}
