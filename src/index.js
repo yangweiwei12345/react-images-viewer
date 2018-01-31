@@ -1,5 +1,13 @@
-import './index.scss'
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-import config from 'config'
+import Example from './Example.js';
 
-console.log(config);
+function render(Component) {
+	ReactDOM.render(
+		<Component />,
+		document.getElementById('root')
+	);
+};
+
+render(Example);

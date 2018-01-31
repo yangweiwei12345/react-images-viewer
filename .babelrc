@@ -1,0 +1,4 @@
+{
+	"presets": ["latest", "stage-2", 'react', 'es2016'],
+	"plugins": ["transform-runtime"]
+}
